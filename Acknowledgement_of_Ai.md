@@ -1,0 +1,1 @@
+#Acknoledgement of AI: I used copilot in this task to help me speed up my coding since I am not that advanced at coding. The use of functions is my idea, and I have done similar stuff in my school assesment tasks when using tkinter to display information.
